@@ -1,11 +1,3 @@
-# Sentiment-Classification-for-Reviews
-
-The uploaded file is a Jupyter Notebook containing code for sentiment analysis using deep learning models. The code appears to involve data preprocessing, model building (possibly using TensorFlow/Keras), and evaluation.
-
-Based on this, here's a draft of the `README.md` file:
-
----
-
 # Sentiment Analysis for Arabic Reviews
 
 This project is focused on sentiment analysis of Arabic text reviews, classifying them as Positive, Negative, or Neutral. The project is implemented using deep learning techniques with TensorFlow/Keras.
